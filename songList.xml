@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "xmlstyle.css"?>
+<songList>
+  
+  <song>
+    <title>
+      Birds Set Free
+    </title>
+    <artist>
+      Sia
+    </artist>
+    <genre>
+      Pop
+    </genre>
+    <releaseYear>
+      2016
+    </releaseYear>
+  </song>
+    
+  <song>
+    <title>
+      vide
+    </title>
+    <artist>
+      Pomme
+    </artist>
+    <genre>
+      French Pop
+    </genre>
+    <releaseYear>
+      2020
+    </releaseYear>
+    
+  </song>
+  
+  <song>
+    <title>
+      SLOW DANCING IN THE DARK
+    </title>
+    <artist>
+      Joji
+    </artist>
+    <genre>
+      Soul
+    </genre>
+    <releaseYear>
+      2018
+    </releaseYear>
+    
+  </song>
+  
+  <song>
+    <title>
+      Gnossienne: No.1
+    </title>
+    <artist>
+      Erik Satie, Alexander Tharaud
+    </artist>
+    <genre>
+      Classical
+    </genre>
+    <releaseYear>
+      2009
+    </releaseYear>
+    
+  </song>
+  
+  <song>
+    <title>
+      Cradles
+    </title>
+    <artist>
+      Sub Urban
+    </artist>
+    <genre>
+      Dance
+    </genre>
+    <releaseYear>
+      2019
+    </releaseYear>
+    
+  </song>
+  
+  <song>
+    <title>
+      Dis, Quand Reviendras-Tu?
+    </title>
+    <artist>
+      Martha Wainwright
+    </artist>
+    <genre>
+      French
+    </genre>
+    <releaseYear>
+      2005
+    </releaseYear>
+    
+  </song>
+  
+  
+  <song>
+    <title>
+      Land of All
+    </title>
+    <artist>
+      Woodkid
+    </artist>
+    <genre>
+      soundtrack
+    </genre>
+    <releaseYear>
+      2016
+    </releaseYear>
+    
+  </song>
+  
+  <song>
+    <title>
+      La Mer
+    </title>
+    <artist>
+      Charles Trenet
+    </artist>
+    <genre>
+      French
+    </genre>
+    <releaseYear>
+      1975
+    </releaseYear>
+    
+  </song>
+  
+  <song>
+    <title>
+      IF YOU PRAY RIGHT
+    </title>
+    <artist>
+      BROCKHAMPTON
+    </artist>
+    <genre>
+      HipPop
+    </genre>
+    <releaseYear>
+      2019
+    </releaseYear>
+    
+  </song>
+  
+  <song>
+    <title>
+      San Francisco
+    </title>
+    <artist>
+      The Mowgli's
+    </artist>
+    <genre>
+      alternative rock
+    </genre>
+    <releaseYear>
+      2013
+    </releaseYear>
+    
+  </song>
+</songList>

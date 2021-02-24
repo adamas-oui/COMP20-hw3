@@ -1,0 +1,34 @@
+song {
+  font-family: Optima, sans-serif;
+  display:block;
+  padding: 8px, 30;
+  border-bottom: .5px solid #edf2f4;
+}
+
+song title {
+  background: #081c15;
+  color: white;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+song artist{
+  background: #1b4332;
+  color: white;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+song genre {
+  background: #2d6a4f;
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+song releaseYear{
+  background: #40916c;
+  color: white;
+  font-size: 15px;
+  font-weight: 700;
+}
